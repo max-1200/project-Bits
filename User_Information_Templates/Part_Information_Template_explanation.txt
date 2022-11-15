@@ -1,0 +1,6 @@
+This template is a template which shows information about the assembly you are working on now in a
+repair and the attachment method which is used for the part in this assembly. Hereby trying to 
+give the user the confidence that the device is meant to be opened up. 
+
+Updates
+I should add a visual showing how the parts are inserted into the assembly. 
